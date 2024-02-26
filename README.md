@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ButteryPluto
-- 👀 I’m interested in anime
-- 🌱 I’m currently learning weeb
+- 👀 I’m interested in Madoka
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on anime 
-- 📫 How to reach me twitch.tv/butterypluto
+- 📫 How to reach me: don't
 
 <!---
 ButteryPluto/ButteryPluto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
